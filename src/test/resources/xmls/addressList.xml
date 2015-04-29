@@ -1,0 +1,30 @@
+<addressList>
+	<!--   <addressListName>Best Customers-7-nov2014</addressListName> --> <!-- This is an optional value -->
+	<addressMappingId>2</addressMappingId>
+	<addresses>
+		<address>
+			<first_name>john</first_name>
+			<last_name>smith</last_name>
+			<organization>my business</organization>
+			<address1>PO Box 100729</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Arlington</city>
+			<state>va</state>
+			<zip>22210-3729</zip>
+			<country_non-us></country_non-us>
+		</address>
+		<address>
+			<first_name>john</first_name>
+			<last_name>smith</last_name>
+			<organization>my business</organization>
+			<address1>PO Box 100729</address1>
+			<address2></address2>
+			<address3></address3>
+			<city>Arlington</city>
+			<state>va</state>
+			<zip>22210-3729</zip>
+			<country_non-us></country_non-us>
+		</address>
+	</addresses>
+</addressList>
