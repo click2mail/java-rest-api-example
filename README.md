@@ -1,4 +1,4 @@
-ruby-rest-xml-api
+java-rest-xml-api
 ==================
 
 A Java example for submitting job using Click2Mail Rest API.
